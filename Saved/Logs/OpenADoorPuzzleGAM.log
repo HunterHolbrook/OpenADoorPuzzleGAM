@@ -11051,3 +11051,5 @@ Continue: Skip saving this asset only.
 [2021.02.10-02.24.45:804][685]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.02.10-02.24.45:904][685]LogD3D11RHI: Shutdown
 [2021.02.10-02.24.45:904][685]LogD3D11RHI: CleanupD3DDevice
+[2021.02.10-02.24.47:221][685]LogExit: Exiting.
+[2021.02.10-02.24.47:284][685]Log file closed, 02/09/21 21:24:47
